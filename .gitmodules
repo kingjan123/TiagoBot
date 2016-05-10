@@ -1,0 +1,3 @@
+[submodule "libfoo"]
+    path = include/foo
+    url = git://foo.com/git/lib.git
